@@ -1,0 +1,42 @@
+[
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "text1",
+        "ts": "1595944239.000100",
+        "username": "user111",
+        "bot_id": "BSTEKUXUN"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "text1",
+        "ts": "1595944239.000100",
+        "username": "user111",
+        "bot_id": "BSTEKUXUN"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "text1",
+        "ts": "1595944239.000100",
+        "username": "user111",
+        "bot_id": "BSTEKUXUN"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "text1",
+        "ts": "1595944239.000100",
+        "username": "user111",
+        "bot_id": "BSTEKUXUN"
+    },
+    {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "text1",
+        "ts": "1595944239.000100",
+        "username": "user111",
+        "bot_id": "BSTEKUXUN"
+    }
+]
