@@ -1,0 +1,7 @@
+server:
+    port: 20020
+
+spring:
+    http:
+        multipart:
+            location: /data/upload_tmp
