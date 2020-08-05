@@ -1,7 +1,9 @@
 server:
     port: 20020
 
+FILE_UPLOAD_PATH: D:/data/upload/
+
 spring:
-    http:
+    servlet:
         multipart:
-            location: /data/upload_tmp
+            location: D:/data/upload_tmp/
