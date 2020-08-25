@@ -12,25 +12,25 @@ import org.springframework.boot.SpringApplication;
 @Service
 public class Arguments {
 
-    @Value("${person.name}")
-    private String name;
+    // @Value("${person.name}")
+    // private String name;
 
-    @Value("${person.test:NULL}")
-    private String test;
+    // @Value("${person.test:NULL}")
+    // private String test;
 
-    public void getArgument(){
-        System.out.println(" getArgument :: " + name);
-        System.out.println(" getArgument :: test :: " + test);
+    // public void getArgument(){
+    //     System.out.println(" getArgument :: " + name);
+    //     System.out.println(" getArgument :: test :: " + test);
 
-        if("null".equals(test)){
-            System.out.println("tetttttttt");
-        }
-        if(test.equals(null)){
-            System.out.println("프로그램 종료");
-            System.exit(1);
-        }else{
-            System.out.println("------");
-        }
-    }
+    //     if("null".equals(test)){
+    //         System.out.println("tetttttttt");
+    //     }
+    //     if(test.equals(null)){
+    //         System.out.println("프로그램 종료");
+    //         System.exit(1);
+    //     }else{
+    //         System.out.println("------");
+    //     }
+    // }
 
 }

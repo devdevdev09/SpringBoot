@@ -16,7 +16,7 @@ public class CommonController {
 
     @RequestMapping(value = "/argument")
     public void argument(){
-        arg.getArgument();
+        // arg.getArgument();
     }
 
 }
